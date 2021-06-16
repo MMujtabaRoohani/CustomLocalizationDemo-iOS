@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  LocalisationDemo
+
+  Created by Mujtaba Roohani on 16/06/2021.
+  
+*/
+
+// Main ViewController
+"TEST_LABEL" = "یہ ایک آزمائشی لیبل ہے";
+"TEST_BUTTON" = "یہ ایک آزمائشی بٹن ہے";
+"TEST_TEXT_FIELD" = "یہ ایک آزمائشی پیغام درج کرنے کا مقام ہے";
+"MAINVIEW_TITLE" = "آداب! اے علاقہ مکینوں";
+"CHANGE_LOCALISATION_BUTTON" = "کوئی اور زبان منتخب کریں";
+
+// ChangeLanguageViewController
+"CHOOSE_LANGUAGE_INSTRUCTION" = "آزمائش کیلئے کسی دوسری زبان کا انتکاب کریں";

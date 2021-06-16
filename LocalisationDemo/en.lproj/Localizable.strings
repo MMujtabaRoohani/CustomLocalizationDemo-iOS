@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  LocalisationDemo
+
+  Created by Mujtaba Roohani on 16/06/2021.
+  
+*/
+
+// Main ViewController
+"TEST_LABEL" = "This is a test label";
+"TEST_BUTTON" = "This is a test button";
+"TEST_TEXT_FIELD" = "This is a placeholder test text field";
+"MAINVIEW_TITLE" = "Hello Regions";
+
+// ChangeLanguageViewController
+"CHANGE_LOCALISATION_BUTTON" = "Change Localisation Button";
+"CHOOSE_LANGUAGE_INSTRUCTION" = "Choose a language to test localization";
